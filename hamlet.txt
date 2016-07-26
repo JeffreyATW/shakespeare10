@@ -1,5 +1,9 @@
 HAMLETTE
 
+BERNARDO: Who's there?
+
+FRANCISCO: Nay, answer me: stand, and unfold yourself.
+
 KING GUY?: I'm a ghoooost!
 
 POLONIUS: I'm behind a curtain!
