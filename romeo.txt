@@ -10,4 +10,6 @@ ROMEO: Hey, a girl! Oh, I die!
 
 Romeo dies.
 
+JULIET cries
+
 END
