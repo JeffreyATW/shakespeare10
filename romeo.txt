@@ -6,7 +6,13 @@ SOME DUDE: I bite my thumb at you, dude.
 
 JULIET: Ay, me!
 
-ROMEO: Hey, a girl! Oh, I die!
+ROMEO: Hey, a girl! 
+
+JULIET: Hey, a boy!
+
+JULIET: [FAKE DIES]
+
+ROMEO: Oh, I die!
 
 Romeo dies.
 
